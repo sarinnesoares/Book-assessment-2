@@ -7,10 +7,10 @@ int main()
     book1.setBookDetails("Surrounded by Idiots: The Four Types of Human Behaviour", "Thomas Erikson", "1111", true);
 
     Book book2;
-    book2.setBookDetails("Thinking, Fast and Slow", "Daniel Kahneman", "2222", true);
+    book2.setBookDetails("Thinking, Fast and Slow", "Daniel Kahneman", "6666", true);
 
     Book book3;
-    book3.setBookDetails("The Power of Self-Awareness", "Patrick King", "3333", true);
+    book3.setBookDetails("The Power of Self-Awareness", "Patrick King", "3333", false);
 
     Book book4;
     book4.setBookDetails("How to Read People Like a Book", "James W Williams ", "4444", true);

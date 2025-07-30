@@ -16,7 +16,8 @@ int main()
     book4.setBookDetails("How to Read People Like a Book", "James W Williams ", "4444", true);
 
     Book book5;
-    book5.setBookDetails("Things We Left Behind", "Lucy Score", "5555", false);
+    book5.setBookDetails("Things We Left Behind", "Lucy Score", "7777", false);
+
     
 
     Book array[5];
